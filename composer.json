@@ -1,0 +1,14 @@
+{
+    "name": "onehitok/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "onehitok",
+        "email": "yong_khiong8787@hotmail.com"
+      }
+    ],
+    "require": {
+    }
+  }
